@@ -1,7 +1,7 @@
 # shake-shake
-Goofy malware to only be used for shaky purposes and education, torment only your friends
+Goofy malware to only be used for shaky purposes and education, torment only your friends.
+Use and compilation for Windows devices.
 
 # Compilation
-1. rc resource.rc - this will create a resource.res file
-2. cl main.c resource.res - compile the two together into an executable
-3. run the newly created shaky.exe
+Running ./build.bat will compile and run the program.
+I've also included a copy of the executable in the /EXEC/ directory
